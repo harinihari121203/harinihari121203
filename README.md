@@ -6,7 +6,7 @@
   🌱 Aspiring Software Developer | 💡 ML & AI Enthusiast | 🎨 Web Developer
 </p>
 
----
+
 
 ### 🚀 About Me
 
@@ -20,7 +20,7 @@ I'm Harini H from Hosur, currently pursuing a **B.Tech in Artificial Intelligenc
 
 I'm passionate about applying these skills to real-world projects and always eager to learn and grow in dynamic environments.
 
----
+
 
 ### 🛠️ Technical Skills
 
@@ -33,7 +33,6 @@ I'm passionate about applying these skills to real-world projects and always eag
 **Areas of Interest**  
 `Machine Learning` | `OOPS (Java)` | `Data Analysis` | `Front-end Development` | `Generative AI` | `Deployments`
 
----
 
 
 ### 🏆 Achievements
@@ -41,7 +40,7 @@ I'm passionate about applying these skills to real-world projects and always eag
 - 🥈 **2nd Prize**, Petrol Price Prediction – MeSCia 2k22, Kongu Engineering College
 - 🏅 **Best Paper Award**, Breast Cancer Prediction – NCAMMT 2023, Hindusthan College of Engineering
 
----
+
 
 ### 📜 Certifications & Badges
 
@@ -52,7 +51,7 @@ I'm passionate about applying these skills to real-world projects and always eag
 - 💾 **SQL (Basic & Intermediate)** – HackerRank
 - 🎨 **CSS (Basic)** – HackerRank
 
----
+
 
 ### 📫 Connect with Me
 
@@ -60,7 +59,7 @@ I'm passionate about applying these skills to real-world projects and always eag
 - 🐙 GitHub: [@harinihari121203](https://github.com/harinihari121203)  
 - 💻 HackerRank: [@harini_haribala1](https://www.hackerrank.com/harini_haribala1)
 
----
+
 
 ### ✨ Fun Facts
 
@@ -68,9 +67,6 @@ I'm passionate about applying these skills to real-world projects and always eag
 - 🗣️ Learning French and Japanese on Duolingo
 - 🎌 Enjoy anime for imagination and creative inspiration
 
----
 
->
 
----
 
