@@ -9,18 +9,17 @@ I am a passionate Data Scientist with hands-on experience building **production-
 
 
 ## Technical Skills
-- **Languages:** Python, Java  
-- **AI/ML:** Machine Learning, Data Science, LLMs, RAG, Generative AI, Agentic AI  
-- **Data & Analytics:** Databricks, Power BI, SQL, ETL Pipelines  
-- **Tools:** Weaviate, FAISS, LangChain, n8n, Dify, Docker  
-- **Web:** HTML, CSS, JavaScript (Basics), ReactJS  
+**Languages:** Python, Java  
+**AI/ML:** Machine Learning, Data Science, LLMs, RAG, Generative AI, Agentic AI 
+**Data & Analytics:** Databricks, Power BI, SQL, ETL Pipelines  
+**Tools:** Weaviate, FAISS, LangChain, n8n, Dify, Docker  
+**Web:** HTML, CSS, JavaScript (Basics), ReactJS  
 
 
 ## Certifications
-- Generative AI Fundamentals – Databricks
-- Databrikcs Fundamentals - Databricks
-- Certified Gen AI & ML Practitioner – Dataiku  
-- SQL (Basic & Intermediate) – HackerRank  
+Generative AI Fundamentals – Databricks
+Databrikcs Fundamentals - Databricks
+Certified Gen AI & ML Practitioner – Dataiku SQL (Basic & Intermediate) – HackerRank  
 
 ## Connect With Me
 📧 Email: hphvharini@gmail.com  
