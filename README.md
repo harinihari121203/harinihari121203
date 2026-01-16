@@ -19,7 +19,8 @@ I am a passionate Data Scientist with hands-on experience building **production-
 ## Certifications
 Generative AI Fundamentals – Databricks
 Databrikcs Fundamentals - Databricks
-Certified Gen AI & ML Practitioner – Dataiku SQL (Basic & Intermediate) – HackerRank  
+Certified Gen AI & ML Practitioner – Dataiku 
+SQL (Basic & Intermediate) – HackerRank  
 
 ## Connect With Me
 📧 Email: hphvharini@gmail.com  
