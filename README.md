@@ -3,14 +3,14 @@
 <h2 align="center">I'm Harini H</h2>  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=AI/ML+Enthusiast;Generative+AI+Explorer;Data+Science+%26+Analytics+Learner;Building+Production-Grade+AI+Solutions!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=Associate Data Scientist ;Generative+AI+Explorer;Cloud Learner;Building+Production-Grade+AI+Solutions!"/>
 </p>  
 
 ---
 
 ### 🚀 About Me  
 - 🤖 **AI/ML Enthusiast** | **Generative AI & Agentic AI Explorer**  
-- 💡 Passionate about building **LLM Applications**, **RAG Pipelines**, and **AI-powered Solutions**  
+- 💡 Passionate about building **LLM Applications** and **AI-powered Solutions**  
 - 📊 Interested in **Data Analytics**, **ETL Pipelines**, and **Visualization Dashboards**  
 - ✍️ I also share my learnings and AI journey through technical blogs on **Medium**  
 - 🌟 Love turning innovative ideas into real-world AI applications  
@@ -45,7 +45,7 @@
 ✅ **Machine Learning Practitioner – Dataiku**  
 ✅ **Core Designer – Dataiku**  
 ✅ **SQL (Basic & Intermediate) – HackerRank**  
-
+✅ **Build agent-driven workflows using Microsoft Foundry(Badge) - Microsoft**  
 ---
 
 #### **🔧 Tools & Platforms:**  
@@ -60,7 +60,7 @@
 📚 I write technical articles and share my AI/ML learnings on Medium  
 
 👉 **Check out my blogs here:**  
-[https://medium.com/@YOUR_MEDIUM_USERNAME](https://medium.com/@YOUR_MEDIUM_USERNAME)
+[https://medium.com/@YOUR_MEDIUM_USERNAME](https://medium.com/@harinihari121203)
 
 ---
 
@@ -87,7 +87,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 
-  <a href="https://medium.com/@YOUR_MEDIUM_USERNAME" target="_blank">
+  <a href="https://medium.com/@harinihari121203" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
   </a>
 </p>  
