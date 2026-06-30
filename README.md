@@ -1,51 +1,129 @@
-## 🌟 *Hey there* 👋  
+# Hi, I'm Harini 👋
 
-<h2 align="center">I'm Harini H</h2>  
+AI Engineer passionate about building production-ready AI systems that solve real business problems.
 
-
-## 📜 Certifications  
-
-- Generative AI Fundamentals — Databricks  
-- Databricks Fundamentals — Databricks  
-- Generative AI Practitioner — Dataiku  
-- Machine Learning Practitioner — Dataiku  
-- Core Designer — Dataiku  
-- SQL (Basic & Intermediate) — HackerRank  
-- Build Agent-Driven Workflows using Microsoft Foundry (Badge) — Microsoft  
+Currently working as an **Associate Data Scientist**, where I build enterprise AI applications, backend services, document intelligence solutions, and workflow automation platforms using modern AI and data engineering technologies.
 
 ---
 
-#### 🔧 Tools & Platforms  
-- ⚡ **AI & Automation:** LangChain, n8n, Dify  
-- 🗂️ **Vector Databases:** Weaviate, FAISS  
-- 🐳 **DevOps & Deployment:** Docker  
-- ☁️ **Development Environments:** Databricks, Jupyter Notebook  
+## 🚀 About Me
+🤖 Building AI-powered enterprise applications
+🧠 Interested in LLMs, RAG, Agentic AI & Applied Machine Learning
+⚡ Experienced in Databricks, Spark & Azure
+📊 Love turning data into business insights
+📚 Continuously learning AI Engineering & MLOps
 
 ---
 
-### ✍️ Medium Blogs  
+## 💼 Experience
 
-📚 I write technical articles and share my AI/ML learnings on Medium  
+**Associate Data Scientist @ BigTapp Analytics**
 
-👉 **Check out my blogs here:**  
-[medium.com/@harinihari121203](https://medium.com/@harinihari121203)
-
-### 💬 Let's Connect!  
-
-<p align="center">
-  <a href="mailto:hphvharini@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-
-  <a href="https://github.com/harinihari121203" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-
-  <a href="https://medium.com/@harinihari121203" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-  </a>
-</p>  
+AI-powered backend development
+Azure OpenAI applications
+OCR & Document Intelligence
+Enterprise workflow automation
+AI observability using Langfuse & OpenLit
 
 ---
 
-<h3 align="center">✨ Turning ideas into intelligent AI solutions ✨</h3>
+## 🛠 Tech Stack
+
+### Languages
+
+Python • SQL
+
+### AI & Machine Learning
+
+Scikit-Learn • Spark MLlib • MLflow
+
+LLMs • RAG • LangChain
+
+Agentic AI • Prompt Engineering
+
+Azure OpenAI
+
+### Data Engineering
+
+Databricks
+
+Apache Spark
+
+Delta Lake
+
+ETL Pipelines
+
+Unity Catalog
+
+Medallion Architecture
+
+### Backend
+
+FastAPI
+
+REST APIs
+
+Swagger
+
+Postman
+
+### Cloud
+
+Microsoft Azure
+
+Docker
+
+Git
+
+GitHub
+
+### Databases
+
+PostgreSQL
+
+MongoDB
+
+Weaviate
+
+### Analytics
+
+Power BI
+
+Dataiku
+
+---
+
+## 🏆 Certifications
+
+Databricks Certified Machine Learning Professional
+Dataiku Machine Learning Practitioner
+Databricks Fundamentals
+Databricks Generative AI Fundamentals
+Dataiku Core Designer
+Dataiku GenAI Practitioner
+Microsoft Foundry
+HackerRank SQL
+
+---
+
+## 📝 Technical Writing
+
+I write about
+
+Artificial Intelligence
+Generative AI
+Databricks
+Data Engineering
+Machine Learning
+
+📖 Medium
+
+https://medium.com/@harinihari121203
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn : https://www.linkedin.com/in/harini-hari/
+
+Always happy to collaborate on AI, Data Engineering and Machine Learning projects.
