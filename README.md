@@ -11,5 +11,3 @@ I occasionally write about **AI, Generative AI, Machine Learning, Databricks, an
 ### 📫 Connect
 
 LinkedIn: https://www.linkedin.com/in/harini-hari/
-
-Always curious, always learning, and always excited to build something new. 🚀
